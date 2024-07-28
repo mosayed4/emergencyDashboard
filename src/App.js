@@ -9,10 +9,11 @@ import { Edit_emergency } from './components/Edit_emergency';
 import { Creat_emergency } from './components/Creat_emergency';
 import { Create_user } from './components/Create_user';
 import { Edit_user } from './components/Edit_user';
-
+// import {Provider} from 'react-redux';
 
 function App() {
   return (
+    
     <div className="wrapper">
       <Routes>
 
